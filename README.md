@@ -1,4 +1,4 @@
-"F:\chart copy\Screenshot_20221104_154208.png"
+![Screenshot_20221104_154208](https://user-images.githubusercontent.com/115452842/199952710-11fcdce8-8430-4996-b273-23157891aaf5.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
